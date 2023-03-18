@@ -22,9 +22,3 @@ def send(msg):
     sleep(0.05)
     #print(client.recv(2048).decode(FORMAT))
 
-'''while True:
-    msg = input("HERE:")
-    send(msg)'''
-
-
-#send(DISCONNECT_MESSAGE)
